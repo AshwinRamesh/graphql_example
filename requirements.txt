@@ -1,0 +1,4 @@
+Django==1.11.2
+graphene==1.4
+promise==2.0.2
+
